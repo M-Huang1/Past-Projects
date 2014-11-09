@@ -8,6 +8,8 @@ Period 6
 ###Michael Huang- Cynthia Zhou- Corrin- Thomas Helbowicz 
 ###Description
 Using a google API and urllib libary, we built a search engine which looked queries that either looked for a person or a time. We used the libaries to get the page source of user inputs and after running it through a regex to locate names or dates, they are sent to the user in order of popularity.
+###https://github.com/cyntzhou/Query
+
 ##Blog Engine
 ###Michael Huang - Sophie Gershon- Justin Kim- Natan Zamansky
 ## Description
@@ -18,14 +20,14 @@ Using an SQL database, we built a blogging site which allowed users to post blog
 
 * First Flask Page
   * Michael Huang - Corrin 
-  *https://github.com/stuycs-softdev/submissions/tree/master/6/intro-proj1/Michael_Corrin
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/intro-proj1/Michael_Corrin
 
 * Regex Project
   * Michael Huang- Sadman Fahid 
   * https://github.com/stuycs-softdev/submissions/tree/master/6/regexp/sadman-michael
  
 * MongoDB Login Page
-  *Michael Huang- Brian Sapozhnikov
-  *https://github.com/stuycs-softdev/submissions/tree/master/6/login/brian_michael
+  * Michael Huang- Brian Sapozhnikov
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/login/brian_michael
 
 
